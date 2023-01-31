@@ -1,2 +1,2 @@
-# youtube-ui
-YouTube UI Clone with Tailwind CSS
+# UI
+UI Clone with Tailwind CSS
